@@ -1,3 +1,11 @@
+;Objectives: 
+;1) Understanding of ARM programmer’s model. 
+;2) Understanding the LDR/STR/LDM/STM instruction set and stack handling 
+;3) Understanding of ARM, Thumb interworking. 
+;4) Understanding of ARM exception handling. 
+;5) Introduction to system initilaization
+
+
 AREA RESET, CODE, READONLY
 		ENTRY
 		ARM
